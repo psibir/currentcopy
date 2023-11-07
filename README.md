@@ -1,6 +1,6 @@
 # CurrentCopy
 
-Copy the most recent files to an output directory
+Copy recent files to an output directory
 
 ## Overview
 The "CurrentCopy" Python script is a tool that allows you to copy the most recent files from one directory to another. This script is particularly useful when you need to keep your target directory up to date with the latest files from a source directory.
